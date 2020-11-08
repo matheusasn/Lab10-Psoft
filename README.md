@@ -4,4 +4,4 @@ Padrão utilizado foi o State que permite que se utilize composições para que 
 
 Primeiro começa implementando uma class modelo. Crio uma variável de estado para interface MarioAções(Ações do Mario durante o jogo) e para cada estado que o personagem Mario possa assumir eu crio um método.
 
-Cria uma interface para implementar todos os estados que o personagem pode assumir, seguindo o padrão Strategy, as classes que assumem esse comportamento, assinam este contrato e implementam a interface.
+Crio uma interface para implementar todos os estados que o personagem pode assumir, seguindo o padrão Strategy, as classes que assumem esse comportamento, assinam este contrato e implementam a interface.
